@@ -6,10 +6,10 @@
 #include <boost/noncopyable.hpp>
 #include <boost/shared_ptr.hpp>
 #include <boost/enable_shared_from_this.hpp>
-#include "reply.hpp"
-#include "request.hpp"
-#include "request_handler.hpp"
-#include "request_parser.hpp"
+#include "reply.h"
+#include "request.h"
+#include "request_handler.h"
+#include "request_parser.h"
 
 namespace http {
 	namespace server3 {
